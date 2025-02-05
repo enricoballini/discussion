@@ -44,8 +44,8 @@
      id="namedview12364"
      showgrid="false"
      inkscape:zoom="2.3109872"
-     inkscape:cx="107.09709"
-     inkscape:cy="113.15511"
+     inkscape:cx="53.873081"
+     inkscape:cy="63.392822"
      inkscape:window-x="66"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -57,7 +57,8 @@
      inkscape:showpageshadow="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="pt" />
+     inkscape:document-units="pt"
+     inkscape:export-bgcolor="#ffffffff" />
   <defs
      id="defs4"
      style="stroke-linecap:butt;stroke-linejoin:round">
@@ -23978,7 +23979,10 @@
      inkscape:path-effect="#path-effect8282"
      inkscape:original-d="m 37.343145,211.45288 c 17.93592,12.62245 35.87184,25.24489 53.80776,37.86734"
      sodipodi:nodetypes="cc"
-     transform="matrix(0.5215899,0,0,0.5215899,19.022752,-10.06015)" />
+     transform="matrix(0.5215899,0,0,0.5215899,19.022752,-10.06015)"
+     inkscape:export-filename="test_3_domain.png"
+     inkscape:export-xdpi="1000"
+     inkscape:export-ydpi="1000" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1.91267;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 81.607015,266.43746 C 67.235166,235.92713 52.863314,205.41679 38.491465,174.90646"
@@ -24072,7 +24076,7 @@
      style="font-size:13.3333px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';white-space:pre;shape-inside:url(#rect2);display:inline"><tspan
        x="139.59961"
        y="441.7057"
-       id="tspan1">1</tspan></text>
+       id="tspan11">1</tspan></text>
   <text
      xml:space="preserve"
      transform="matrix(0.75,0,0,0.75,-78.168873,-195.55103)"
@@ -24080,7 +24084,7 @@
      style="font-size:13.3333px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';white-space:pre;shape-inside:url(#rect3);display:inline"><tspan
        x="157.11719"
        y="412.29945"
-       id="tspan2">2</tspan></text>
+       id="tspan12">2</tspan></text>
   <text
      xml:space="preserve"
      transform="matrix(0.75,0,0,0.75,-68.801045,-211.52244)"
@@ -24088,7 +24092,7 @@
      style="font-size:13.3333px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';white-space:pre;shape-inside:url(#rect4);display:inline"><tspan
        x="201.52734"
        y="419.57289"
-       id="tspan3">3</tspan></text>
+       id="tspan13">3</tspan></text>
   <text
      xml:space="preserve"
      transform="matrix(0.75,0,0,0.75,-65.801045,-207.02244)"
@@ -24096,7 +24100,7 @@
      style="font-size:13.3333px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';white-space:pre;shape-inside:url(#rect5);display:inline"><tspan
        x="183.97852"
        y="332.44203"
-       id="tspan4">4</tspan></text>
+       id="tspan14">4</tspan></text>
   <text
      xml:space="preserve"
      transform="matrix(0.75,0,0,0.75,-68.801045,-211.52244)"
@@ -24104,7 +24108,7 @@
      style="font-size:13.3333px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';white-space:pre;shape-inside:url(#rect6);display:inline"><tspan
        x="269.04492"
        y="362.84437"
-       id="tspan5">5</tspan></text>
+       id="tspan15">5</tspan></text>
   <text
      xml:space="preserve"
      transform="matrix(0.75,0,0,0.75,-64.301045,-211.52244)"
@@ -24112,7 +24116,7 @@
      style="font-size:13.3333px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';white-space:pre;shape-inside:url(#rect7);display:inline"><tspan
        x="259.74414"
        y="438.16664"
-       id="tspan6">6</tspan></text>
+       id="tspan16">6</tspan></text>
   <text
      xml:space="preserve"
      transform="matrix(0.75,0,0,0.75,-64.301045,-211.52244)"
@@ -24120,7 +24124,7 @@
      style="font-size:13.3333px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';white-space:pre;shape-inside:url(#rect8);display:inline"><tspan
        x="249.83594"
        y="398.96937"
-       id="tspan7">7</tspan></text>
+       id="tspan17">7</tspan></text>
   <text
      xml:space="preserve"
      transform="matrix(0.75,0,0,0.75,-70.301045,-211.52244)"
@@ -24128,7 +24132,7 @@
      style="font-size:13.3333px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';white-space:pre;shape-inside:url(#rect9);display:inline"><tspan
        x="231.93164"
        y="303.32679"
-       id="tspan8">8</tspan></text>
+       id="tspan18">8</tspan></text>
   <text
      xml:space="preserve"
      transform="matrix(0.75,0,0,0.75,-70.301045,-211.52244)"
@@ -24136,7 +24140,7 @@
      style="font-size:13.3333px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';white-space:pre;shape-inside:url(#rect10);display:inline"><tspan
        x="294.36133"
        y="302.62367"
-       id="tspan9">9</tspan></text>
+       id="tspan19">9</tspan></text>
   <text
      xml:space="preserve"
      transform="matrix(0.75,0,0,0.75,-68.801045,-213.02244)"
@@ -24144,5 +24148,5 @@
      style="font-size:13.3333px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';white-space:pre;shape-inside:url(#rect11);display:inline"><tspan
        x="171.13281"
        y="301.18617"
-       id="tspan10">10</tspan></text>
+       id="tspan20">10</tspan></text>
 </svg>
